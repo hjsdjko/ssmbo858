@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#C2E46A",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "报刊论坛发帖详情",
+  "usingComponents": {
+    "user-reply": "/components/forum-reply/forum-reply"
+  }
+}
